@@ -19,3 +19,5 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre SQL e dados Relacionais, 
 🚀 Resultados
 
 O E-book apresenta um conteúdo bem básico, pois foi feito uma roterização bem resumido para fins demosntrativos da ferramenta, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+
+[Link para o E-book](SQL-e-Dados-Relacionais-Seu-Guia-Definitivo.pdf)
