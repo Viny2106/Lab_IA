@@ -2,7 +2,7 @@
 
 
 
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas #
+# Guia Básico de Dados Relacionais (SQL)  
 
 ## Descrição : ## 
 
