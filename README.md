@@ -2,7 +2,7 @@
 
 
 
-# Guia Básico de Dados Relacionais (SQL)  
+# Guia Básico de Dados Relacionais (SQL).  
 
 ## Descrição : ## 
 
